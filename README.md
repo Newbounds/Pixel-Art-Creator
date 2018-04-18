@@ -1,8 +1,7 @@
 # Pixel-Art-Creator
 A fun little pixel art tool for when you're bored.
 
-# Pixel-Art-Creator
-A fun little pixel art tool for when you're bored.
+![pixel-art](https://i.imgur.com/uq3vhq5.jpg)
 
 ### Welcome
 
