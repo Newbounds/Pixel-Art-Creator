@@ -9,6 +9,14 @@ The current state of the file is plain HTML, JavaScript, and CSS. I started out 
 
 ### Functionality
 
-Currently, you can draw a transparent pixel, or a colored pixel. I hope to create more and more functionality in the future and cool little art you see when you open the file showcases some of the functionality to come.
+Currently, you can draw a transparent pixel, or a colored pixel.
+
+Updates will include:
+
+*  Delete a pixel after drawn
+*  Rotate the angle of pixels before you draw
+*  Change opacity of the pixel
+*  Lock a pixel angle to draw a straight line
+*  Plus much more!
 
 Have fun and enjoy!
