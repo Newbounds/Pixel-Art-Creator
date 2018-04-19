@@ -1,4 +1,5 @@
-# Pixel-Art-Creator
+# Pixel-Art-Creator 
+###### Alpha 0.1
 A fun little pixel art tool for when you're bored.
 
 ![pixel-art](https://i.imgur.com/uq3vhq5.jpg) 
