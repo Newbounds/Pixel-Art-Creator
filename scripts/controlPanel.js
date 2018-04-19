@@ -4,8 +4,8 @@ var ControlPanel = (function() {
         var settings = {
                 'height' : document.getElementById("pixelSize").value + "px",
                 'width' : document.getElementById("pixelSize").value + "px",
-                'top' : globalY + "px",
-                'left' : globalX + "px",
+                'top' : pixelCoordinates.y + "px",
+                'left' : pixelCoordinates.x + "px",
                 'backgroundColor' : document.getElementById("pixelColor").value
             };
 
