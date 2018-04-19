@@ -17,8 +17,8 @@ var Pixel = (function() {
     };
 
     var trackPixel = function() {
-        var x = getXCoordinate(event, 50),
-            y = getYCoordinate(event, 50);
+        var x = getXCoordinate(event, pixelSize),
+            y = getYCoordinate(event, pixelSize);
         
         return { x, y };
     }

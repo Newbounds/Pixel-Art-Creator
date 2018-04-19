@@ -1,4 +1,6 @@
 var frame = document.getElementById("coordinates"),
+    pixelSizeInput = document.getElementById("pixelSize"),
+    pixelSize = 50,
     pixelCoordinates = { 'x' : 0, 'y' : 0 },
     isDrawing = false;
     isRemoving = false;
@@ -9,8 +11,8 @@ var addEventListener = function(elm, event, action ) {
 
 addEventListener(controlPanel, "onmouseover", function(){ controlPanel.isMouseOver = true; });
 addEventListener(controlPanel, "onmouseout", function(){ controlPanel.isMouseOver = false; });
-addEventListener(window, "oncontextmenu", function(){ return false; })
-
+addEventListener(window, "oncontextmenu", function(){ return false; });
+addEventListener(pixelSizeInput, "onchange", function(){ pixelSize = pixelSizeInput.value; })
 addEventListener(frame, "onmousemove", function(){
     var currentPixelCoordinates = Pixel.track();
     if(currentPixelCoordinates.x !== pixelCoordinates.x || currentPixelCoordinates.y !== pixelCoordinates.y) {
