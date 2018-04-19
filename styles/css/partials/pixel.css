@@ -1,0 +1,9 @@
+#outlinePixel {
+  opacity: .6; }
+
+.pixel, .outlinePixel {
+  border: 1px solid rgba(0, 0, 0, 0.314);
+  position: absolute;
+  z-index: 100; }
+
+/*# sourceMappingURL=pixel.css.map */
