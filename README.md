@@ -1,11 +1,7 @@
 # Pixel-Art-Creator
 A fun little pixel art tool for when you're bored.
 
-![pixel-art](https://i.imgur.com/uq3vhq5.jpg)
-
-### Welcome
-
-The current state of the file is plain HTML, JavaScript, and CSS. I started out wanting to create an app using only vanilla JavaScript just for fun and then it turned into this.
+![pixel-art](https://i.imgur.com/uq3vhq5.jpg) 
 
 ### Functionality
 
