@@ -1,12 +1,12 @@
 ## Related Quandis Section
 ###### \* Please select all that apply
-- [ ] Workflow Issue
-- [ ] Loan Issue
-- [ ] Import Data Issue
-- [ ] Reporting Issue
-- [ ] Nightly Cycle Issue
-- [ ] UI Issue
-- [ ] Permission Issue
+- [ ] Workflow
+- [ ] Loan
+- [ ] Import Data
+- [ ] Reporting
+- [ ] Nightly Cycle
+- [ ] UI
+- [ ] Permissions
 - [ ] Other
 
 ## Description
